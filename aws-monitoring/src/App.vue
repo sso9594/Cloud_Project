@@ -439,37 +439,36 @@ button:hover:not(:disabled) {
     background-color: #5a6268;
   }
 
-.condor-status-container {
-  margin-top: 10px;
-  border: 1px solid #ccc;
-  padding: 10px;
-  border-radius: 8px;
-  background-color: #f9f9f9;
-}
+  .condor-status-container {
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
 
-.condor-details {
-  width: 100%;
-  border-collapse: collapse;
-  margin-bottom: 10px;
-}
+  .condor-details {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+  }
 
-.condor-details th,
-.condor-details td {
-  text-align: left;
-  padding: 8px;
-  border: 1px solid #ddd;
-}
+  .condor-details th,
+  .condor-details td {
+    text-align: left;
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
 
-.condor-details th {
-  background-color: #f2f2f2;
-  font-weight: bold;
-}
+  .condor-details th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
 
-p {
-  margin: 0;
-  padding: 5px;
-  font-size: 14px;
-  color: #333;
-}
-
+  p {
+    margin: 0;
+    padding: 5px;
+    font-size: 14px;
+    color: #333;
+  }
 </style>
